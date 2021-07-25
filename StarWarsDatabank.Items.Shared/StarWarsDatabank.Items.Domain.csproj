@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AggregatesModel\Mods\" />
+    <Folder Include="AggregatesModel\Weapons\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StarWarsDatabank.Framework\StarWarsDatabank.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
