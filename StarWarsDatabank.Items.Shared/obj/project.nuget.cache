@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBwnLUnBLs0D4kwSqqbKocpWwFwIPiWI8P+kmUfiTmboDFG3o4VrZB+D6VKTDtgm5tfeZQMBnmd7TNM97+L/DQ==",
+  "dgSpecHash": "aQsq0wn7MaI34tUuVnzZeA3wiKbDb7nz9lfAozgbYAJSKd+3IAJ+kdBKqRnCM+6x8uoGm9g/pn3spUn/b1bhIg==",
   "success": true,
-  "projectFilePath": "E:\\Workspace\\StarWarsDatabank\\StarWarsDatabank.Items.Shared\\StarWarsDatabank.Items.Domain.csproj",
+  "projectFilePath": "E:\\Workspace\\StarWarsDatabank\\StarWarsDatabank.Items.Shared\\StarWarsDatabank.Items.FFG.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

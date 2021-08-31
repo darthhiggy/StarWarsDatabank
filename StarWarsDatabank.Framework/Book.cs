@@ -1,7 +1,5 @@
 ﻿using StarWarsDatabank.Framework.DomainFramework;
 
-using System;
-
 namespace StarWarsDatabank.Framework
 {
     public class Book : Value<Book>

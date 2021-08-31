@@ -1,16 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using StarWarsDatabank.Framework.DomainFramework;
 
-namespace StarWarsDatabank.Items.Domain.AggregatesModel.GearAndEquipment
+namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.GearAndEquipment
 {
-    public class GearCategory
+    public class GearCategory : EntityBase
     {
-        public int GearCategoryId { get; set; }
+        public GearCategory()
+        {
+        }
 
-        public string Description { get; set; }
+        public GearCategory(int entityId) : base(entityId)
+        {
+        }
 
     }
 }

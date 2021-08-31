@@ -1,15 +1,20 @@
-﻿using System;
+﻿using StarWarsDatabank.Framework.DomainFramework;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StarWarsDatabank.Items.Domain.AggregatesModel.Armor
+namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.Armor
 {
-    public class ArmorCategory
+    public class ArmorCategory : EntityBase
     {
-        public int ArmorCategoryId { get; set; }
+        public ArmorCategory()
+        {
+        }
 
-        public string Description { get; set; }
+        public ArmorCategory(int entityId) : base(entityId)
+        {
+        }
     }
 }

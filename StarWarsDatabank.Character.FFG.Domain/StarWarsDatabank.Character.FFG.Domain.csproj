@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="SeedWork\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StarWarsDatabank.Framework\StarWarsDatabank.Framework.csproj" />
+    <ProjectReference Include="..\StarWarsDatabank.Species.FFG.Domain\StarWarsDatabank.Species.FFG.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

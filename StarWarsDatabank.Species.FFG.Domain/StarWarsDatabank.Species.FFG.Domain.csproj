@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StarWarsDatabank.Framework\StarWarsDatabank.Framework.csproj" />
+    <ProjectReference Include="..\StarWarsDatabank.Skills.FFG.Domain\StarWarsDatabank.Skills.FFG.Domain.csproj" />
+    <ProjectReference Include="..\StarWarsDatabank.Talents.FFG.Domain\StarWarsDatabank.Talents.FFG.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

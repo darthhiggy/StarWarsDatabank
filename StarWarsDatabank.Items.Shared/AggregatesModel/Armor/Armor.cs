@@ -1,26 +1,38 @@
 ﻿using StarWarsDatabank.Framework.DomainFramework;
-using StarWarsDatabank.Items.Domain.AggregatesModel.Armor.FFG;
+using StarWarsDatabank.Items.FFG.Domain.SeedWork;
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace StarWarsDatabank.Items.Domain.AggregatesModel.Armor
+namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.Armor
 {
-    public class Armor : AggregateBase
+    public class Armor : ItemBase
     {
+
+        public Armor() : base()
+        {
+
+        }
+
+        public Armor(int aggregateId) : base(aggregateId)
+        {
+
+        }
+
         public ArmorCategory Category { get; set; }
 
         // FFG
-        public FFGArmor FFGArmor { get; set; }
+        public int Soak { get; set; }
 
-        // D20
+        public int Defense { get; set; }
 
+        public int Encumberance { get; set; }
 
-        // Saga
+        public int HardPoints { get; set; }
 
-        // WEG
+        public int Price { get; set; }
+
+        public int Rarity { get; set; }
+
+        public string Speical { get; set; }
+
+        public List<ArmorQuality> Qualities { get; set; }
     }
 }

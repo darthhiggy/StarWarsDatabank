@@ -1,15 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace StarWarsDatabank.Framework.DomainFramework
+﻿namespace StarWarsDatabank.Framework.DomainFramework
 {
-    public class AggregateBase
+    public class AggregateBase : IAggregateBase
     {
-        public int AggregateId { get; set; }
+        public int AggregateId { get; private set; }
 
-        public List<Book> Books { get; set; }
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+
+
+        public List<BookReference> Books { get; set; } = new List<BookReference>();
+
+        public AggregateBase()
+        {
+            AggregateId = 0;
+        }
+
+        public AggregateBase(int aggregateId)
+        {
+            AggregateId = aggregateId;
+        }
     }
 }
