@@ -1,0 +1,13 @@
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\bin\Debug\net6.0\StarWarsDatabank.Framework.deps.json
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\bin\Debug\net6.0\StarWarsDatabank.Framework.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\bin\Debug\net6.0\ref\StarWarsDatabank.Framework.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\bin\Debug\net6.0\StarWarsDatabank.Framework.pdb
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.csproj.AssemblyReference.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.AssemblyInfoInputs.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.AssemblyInfo.cs
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.ImplicitNamespaceImports.cs
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.csproj.CoreCompileInputs.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\ref\StarWarsDatabank.Framework.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Framework\obj\Debug\net6.0\StarWarsDatabank.Framework.pdb

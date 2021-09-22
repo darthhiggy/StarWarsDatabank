@@ -1,0 +1,16 @@
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.deps.json
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\bin\Debug\net6.0\ref\StarWarsDatabank.Skills.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.pdb
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Framework.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Framework.pdb
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.csproj.AssemblyReference.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.AssemblyInfoInputs.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.AssemblyInfo.cs
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.ImplicitNamespaceImports.cs
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.csproj.CoreCompileInputs.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.csproj.CopyComplete
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\ref\StarWarsDatabank.Skills.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Skills.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Skills.FFG.Domain.pdb

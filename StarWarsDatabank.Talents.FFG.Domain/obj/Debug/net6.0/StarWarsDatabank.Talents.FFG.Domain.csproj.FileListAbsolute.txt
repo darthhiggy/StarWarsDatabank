@@ -1,0 +1,16 @@
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.deps.json
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\bin\Debug\net6.0\ref\StarWarsDatabank.Talents.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.pdb
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Framework.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\bin\Debug\net6.0\StarWarsDatabank.Framework.pdb
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.csproj.AssemblyReference.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.AssemblyInfoInputs.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.AssemblyInfo.cs
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.ImplicitNamespaceImports.cs
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.csproj.CoreCompileInputs.cache
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.csproj.CopyComplete
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\ref\StarWarsDatabank.Talents.FFG.Domain.dll
+E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.pdb

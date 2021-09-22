@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StarWarsDatabank.Talents.FFG.Domain/1.0.0": {
+        "dependencies": {
+          "StarWarsDatabank.Framework": "1.0.0"
+        },
+        "runtime": {
+          "StarWarsDatabank.Talents.FFG.Domain.dll": {}
+        }
+      },
+      "StarWarsDatabank.Framework/1.0.0": {
+        "runtime": {
+          "StarWarsDatabank.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StarWarsDatabank.Talents.FFG.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarWarsDatabank.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
