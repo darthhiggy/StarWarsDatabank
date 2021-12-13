@@ -36,7 +36,7 @@ namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.Weapons
 
         public int Rarity { get; set; }
 
-        public List<WeaponQaulity> Qualities { get; set; }
+        public List<WeaponQuality> Qualities { get; set; }
 
     }
 }

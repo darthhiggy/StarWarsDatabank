@@ -2,7 +2,7 @@
 
 namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.GearAndEquipment
 {
-    public class Gear : ItemBase
+    public class Gear : ItemBase, IGear
     {
         public Gear()
         {

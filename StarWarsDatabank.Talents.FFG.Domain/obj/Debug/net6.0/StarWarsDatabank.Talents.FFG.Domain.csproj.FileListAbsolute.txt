@@ -10,7 +10,6 @@ E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.AssemblyInfo.cs
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.ImplicitNamespaceImports.cs
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.csproj.CoreCompileInputs.cache
-E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.csproj.CopyComplete
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.dll
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\ref\StarWarsDatabank.Talents.FFG.Domain.dll
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Talents.FFG.Domain\obj\Debug\net6.0\StarWarsDatabank.Talents.FFG.Domain.pdb

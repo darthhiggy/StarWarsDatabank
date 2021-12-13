@@ -12,7 +12,6 @@ E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\Sta
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\StarWarsDatabank.Items.FFG.Domain.AssemblyInfo.cs
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\StarWarsDatabank.Items.FFG.Domain.ImplicitNamespaceImports.cs
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\StarWarsDatabank.Items.FFG.Domain.csproj.CoreCompileInputs.cache
-E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\StarWarsDatabank.Items.FFG.Domain.csproj.CopyComplete
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\StarWarsDatabank.Items.FFG.Domain.dll
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\ref\StarWarsDatabank.Items.FFG.Domain.dll
 E:\Workspace\StarWarsDatabank\StarWarsDatabank.Items.Shared\obj\Debug\net6.0\StarWarsDatabank.Items.FFG.Domain.pdb

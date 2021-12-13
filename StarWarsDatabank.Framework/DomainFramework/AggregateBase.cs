@@ -8,7 +8,6 @@
 
         public string Description { get; set; }
 
-
         public List<BookReference> Books { get; set; } = new List<BookReference>();
 
         public AggregateBase()

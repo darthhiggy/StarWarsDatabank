@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.Mods
 {
-    public class Mod : ItemBase
+    public class Mod : ItemBase, IMod
     {
         public ModType Type { get; set; }
 

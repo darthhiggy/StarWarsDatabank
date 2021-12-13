@@ -2,16 +2,17 @@
 
 namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.Weapons
 {
-    public class WeaponQaulity : EntityBase
+    public class WeaponQuality : EntityBase
     {
-        public WeaponQaulity()
+        public WeaponQuality()
         {
         }
 
-        public WeaponQaulity(int entityId) : base(entityId)
+        public WeaponQuality(int entityId) : base(entityId)
         {
         }
 
         public string Rule { get; set; }
+        public List<Weapon> Weapons { get; set; }
     }
 }

@@ -17,5 +17,7 @@ namespace StarWarsDatabank.Items.FFG.Domain.AggregatesModel.Armor
         {
         }
 
+        public List<Armor> Armors { get; set; }
+
     }
 }

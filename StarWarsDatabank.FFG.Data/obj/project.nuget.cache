@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vEMcOgd3gQrLdrnP9ye5Lqo3ED5K+IsVBbM1kVSwMyQK68LffLTK4UMsEV1XIX4K/ttmWN1Es5hIyY9V8TRCfA==",
+  "dgSpecHash": "A+Om7KNjwcudGV+tx9KWVsS18Q689rlj1RJdJgZwvUSKMuZ/kUuC1pBWir4/4tfKkj3LES+eLYSPXwar7DSFSA==",
   "success": true,
   "projectFilePath": "E:\\Workspace\\StarWarsDatabank\\StarWarsDatabank.FFG.Data\\StarWarsDatabank.FFG.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m_hig\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\m_hig\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\m_hig\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\m_hig\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\m_hig\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\m_hig\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

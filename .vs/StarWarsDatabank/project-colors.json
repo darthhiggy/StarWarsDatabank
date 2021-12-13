@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e420332-2d88-49b7-9eeb-cc63b5e3e18a": {
+      "ProjectGuid": "1e420332-2d88-49b7-9eeb-cc63b5e3e18a",
+      "DisplayName": "StarWarsDatabank.FFG.Data",
+      "ColorIndex": 0
+    },
+    "288dd4b7-c7fb-4357-a29d-0514f6564db8": {
+      "ProjectGuid": "288dd4b7-c7fb-4357-a29d-0514f6564db8",
+      "DisplayName": "StarWarsDatabank.Framework",
+      "ColorIndex": 1
+    },
+    "c6edb501-e4fb-41e1-8800-8fe8b10e4a85": {
+      "ProjectGuid": "c6edb501-e4fb-41e1-8800-8fe8b10e4a85",
+      "DisplayName": "StarWarsDatabank.Talents.FFG.Domain",
+      "ColorIndex": 2
+    },
+    "d04c9fcf-0324-427e-a232-1e42b6bdc73b": {
+      "ProjectGuid": "d04c9fcf-0324-427e-a232-1e42b6bdc73b",
+      "DisplayName": "StarWarsDatabank.Items.FFG.Domain",
+      "ColorIndex": 3
+    },
+    "1bdf5d4f-9a7a-4d2d-9ae7-419cdeb81e4c": {
+      "ProjectGuid": "1bdf5d4f-9a7a-4d2d-9ae7-419cdeb81e4c",
+      "DisplayName": "StarWarsDatabank.Skills.FFG.Domain",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
